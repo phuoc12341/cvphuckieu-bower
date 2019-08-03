@@ -1,0 +1,17 @@
+{
+  "name": "cvphuckieu-bower",
+  "authors": [
+    "phuockm <phuoc123411@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/phuoc12341/cvphuckieu-bower.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
